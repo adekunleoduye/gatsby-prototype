@@ -1,0 +1,110 @@
+[
+    {
+      "hero": "Spider-Man",
+      "name": "Peter Benjamin Parker", 
+      "link": "http://marvel.com/characters/54/spider-man",
+      "img":  "https://cdn.vox-cdn.com/thumbor/yJHq9sFDB3fcQj8zvcSU5mivjJ8=/0x0:1266x1875/1720x0/filters:focal(0x0:1266x1875):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/15987876/petr.jpg",
+      "size": 40000,
+      "fallen": true,
+      "bio": "With amazing spider-like abilities, teenage science whiz Peter Parker fights crime and dreams of becoming an Avenger as Spider-Man."
+    },
+    {
+        "hero": "Black Panther",
+        "name": "T’Challa", 
+        "link": "https://www.marvel.com/characters/black-panther-t-challa",
+        "img":  "https://cdn.vox-cdn.com/thumbor/m-t6flcsPj005iS6oOYQFfc6L0Y=/0x0:1266x1875/1720x0/filters:focal(0x0:1266x1875):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/15987883/tcha.jpg",
+        "size": 40000,
+        "fallen": true,
+        "bio": "As the king of the African nation of Wakanda, T’Challa protects his people as the latest in a legacy line of Black Panther warriors."
+      },
+      {
+        "hero": "Dr. Strange",
+        "name": "Stephen Vincent Strange", 
+        "link": "https://www.marvel.com/characters/doctor-strange-stephen-strange",
+        "img":  "https://cdn.vox-cdn.com/thumbor/qnNVcJqLKBS3HmqjiWPgkO71mPc=/0x0:1266x1875/1720x0/filters:focal(0x0:1266x1875):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/15987878/dc.jpg",
+        "size": 40000,
+        "fallen": true,
+        "bio": "Once a highly successful, yet notably egotistical, surgeon, Doctor Stephen Strange endured a terrible accident that led him to evolve in ways he could have never foreseen."
+      },
+      {
+        "hero": "Nick Fury",
+        "name": "Nick Fury", 
+        "link": "https://www.marvel.com/characters/nick-fury",
+        "img":  "https://cdn.vox-cdn.com/thumbor/uW023yrMPCWxPH7z4r8d9FfT9SU=/0x0:1266x1875/1720x0/filters:focal(0x0:1266x1875):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/15987873/fury.jpg",
+        "size": 40000,
+        "fallen": true,
+        "bio": "In the years following the Cold War, Nick Fury wrestles with his sense of purpose within S.H.I.E.L.D. When Nick crosses paths with Captain Marvel, they become Earth's only hope of stopping a Skrull invasion."
+      },
+      {
+        "hero": "Falcon",
+        "name": "Sam Wilson", 
+        "link": "https://www.marvel.com/characters/falcon-sam-wilson",
+        "img":  "https://cdn.vox-cdn.com/thumbor/Q5sUWSf-FnaUS1r-5lDjQcptZQ8=/0x0:1266x1875/1720x0/filters:focal(0x0:1266x1875):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/15987867/sammy.jpg",
+        "size": 40000,
+        "fallen": true,
+        "bio": "When Captain America asked Air Force Veteran Sam Wilson for help, Wilson immediately agreed. He donned the flight suit he’d used in combat to become the Falcon, setting him on a path towards becoming an Avenger."
+      },
+      {
+        "hero": "Winter Soldier",
+        "name": "Bucky Barnes", 
+        "link": "https://www.marvel.com/characters/winter-soldier-bucky-barnes",
+        "img":  "https://cdn.vox-cdn.com/thumbor/-_xTqsD0DRXAIz-dXpiAcJs9wb4=/0x0:1266x1875/1720x0/filters:focal(0x0:1266x1875):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/15987864/buck.jpg",
+        "size": 40000,
+        "fallen": true,
+        "bio": "James Buchanan “Bucky” Barnes enlists to fight in World War II, but eventually literally falls in battle. Unfortunately, the evil Arnim Zola recovers him and erases his memory, turning him into a highly-trained assassin called the Winter Soldier."
+      },
+    {
+      "hero": "Captain Marvel",
+      "name": "Carol Danvers", 
+      "link": "http://marvel.com/characters/9/captain_marvel",
+      "img":  "https://cdn.vox-cdn.com/thumbor/o6LlvyCr0ocx0rM7l6nLqSzJ0QI=/0x0:1266x1875/1720x0/filters:focal(0x0:1266x1875):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/15987834/capnmarvel.jpg",
+      "size": 40000,
+      "fallen": false,
+      "bio": "Near death, Carol Danvers was transformed into a powerful warrior for the Kree. Now, returning to Earth years later, she must remember her past in order to to prevent a full invasion by shapeshifting aliens, the Skrulls."
+    },
+    {
+      "hero": "Hulk", 
+      "name": "Robert Bruce Banner",
+      "link": "http://marvel.com/characters/25/hulk",
+      "img":  "https://cdn.vox-cdn.com/thumbor/i-yX--69J6Cd4MqhVd2X3cJTz2A=/0x0:1266x1875/1720x0/filters:focal(0x0:1266x1875):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/15987831/hulk.jpg",
+      "size": 40000,
+      "fallen": false,
+      "bio": "Exposed to heavy doses of gamma radiation, scientist Bruce Banner transforms into the mean, green rage machine called the Hulk."
+    },
+    {
+      "hero": "Black Widow", 
+      "name": "Natalia 'Natasha' Alianovna Romanova",
+      "link": "https://www.marvel.com/characters/black-widow-natasha-romanoff",
+      "img":  "https://cdn.vox-cdn.com/thumbor/8wYGPO6N1yyaejC7mTepegJ7URI=/0x0:1266x1875/1720x0/filters:focal(0x0:1266x1875):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/15987826/blackwidow.jpg",
+      "size": 40000,
+      "fallen": false,
+      "bio": "Trusted by some and feared by most, the Black Widow strives to make up for the bad she had done in the past by helping the world, even if that means getting her hands dirty in the process."
+    },
+    {
+      "hero": "Captain America", 
+      "name": "Steven Rogers",
+      "link": "http://marvel.com/characters/8/captain_america",
+      "img":  "https://cdn.vox-cdn.com/thumbor/yNE10ikcvcXVB8aDKYBnGEHUj1c=/0x0:1266x1875/1720x0/filters:focal(0x0:1266x1875):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/15987827/capn.jpg",
+      "size": 40000,
+      "fallen": false,
+      "bio": "America’s World War II Super-Soldier continues his fight in the present as an Avenger and untiring sentinel of liberty."
+    },
+    {
+      "hero": "Iron Man", 
+      "name": "Anthony Edward 'Tony' Stark",
+      "link": "http://marvel.com/characters/29/iron_man",
+      "img":  "https://cdn.vox-cdn.com/thumbor/wjW5u4yYrwLJJDAzX5G9W82rz60=/0x0:1266x1875/1720x0/filters:focal(0x0:1266x1875):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/15987812/ironma.jpg",
+      "size": 40000,
+      "fallen": false,
+      "bio": "Inventor Tony Stark applies his genius for high-tech solutions to problems as Iron Man, the armored Avenger."
+    },
+    {
+      "hero": "Thor", 
+      "name": "Thor Odinson",
+      "link": "http://marvel.com/characters/60/thor",
+      "img":  "https://cdn.vox-cdn.com/thumbor/Aw7OxEnUuD9jUox9XEFsaKt00U4=/0x0:1266x1875/1720x0/filters:focal(0x0:1266x1875):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/15987828/thor.jpg",
+      "size": 40000,
+      "fallen": false,
+      "bio": "Thor Odinson wields the power of the ancient Asgardians to fight evil throughout the Nine Realms and beyond."
+    }
+  ]
