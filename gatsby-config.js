@@ -1,12 +1,13 @@
 module.exports = {
   siteMetadata: {
-    title: `Avengers Endgame`,
-    description: `Part of the journey is the end`,
+    title: `Subtraction Conference`,
+    description: `conference for misfits`,
     author: `Adekunle`
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
     `gatsby-transformer-json`,
+    `gatsby-plugin-sass`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {

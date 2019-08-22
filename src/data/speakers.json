@@ -1,0 +1,191 @@
+[
+  {
+    "name": "Bobby Brown",
+    "img": "https://trello-attachments.s3.amazonaws.com/547843ae7862e0c68f04d1c7/5d5e43fdce827e3e1c5b8871/d8723899a001bc2356fd73e596c927aa/1.jpg",
+    "slug": "bobby-brown",
+    "location": "Austin",
+    "venue": "The North Door (501 Brushy St, Austin, TX 78702)",
+    "type": "Lightning Talk",
+    "title": "Houdini: Future of CSS?",
+    "tags": ["CSS", "Houdini"],
+    "start": 1447260420000,
+    "end": 1447261020000,
+    "invited": true,
+    "description": "The Houdini Task Force, which I introduced at last year's SassConf, is rolling along nicely. Several aspects of making CSS customizable now have draft specs, and are maturing nicely. There are even experimental builds in browsers! This talk will give a quick introduction to Houdini for those who are new, describe the parts that are reaching maturity, and hint at those that are still a bit far off.\n",
+    "occupation": "Spec Hacker",
+    "social": {
+      "github": "bobbybrown",
+      "twitter": "bobbybrown",
+      "instagram": null,
+      "web": "http://www.fakebobbybrown.com/"
+    }
+  },
+  {
+    "name": "Janet Jacks",
+    "img": "https://trello-attachments.s3.amazonaws.com/547843ae7862e0c68f04d1c7/5d5e43fdce827e3e1c5b8871/f6ff5b9fa1efa33698adce17b39ffc56/2.jpg",
+    "location": "Ypsilanti, MI",
+    "venue": "Retail Me Not (301 Congress Ave #700, Austin, TX 78701) - Boardroom",
+    "type": "workshop",
+    "title": "Getting Sassy with CSS",
+    "tags": ["CSS", "Houdini"],
+    "start": 1447276500000,
+    "end": 1447287300000,
+    "invited": true,
+    "description": "I don't know about you, but vanilla CSS always leaves me wanting more.  It's a fairly simple language, can do some pretty powerful things, but after a while.. well, it can become rather tedious to work with.  Enter Sass: Syntactically Awesome Stylesheets.  Sass is a CSS meta-language and precompiler that makes the prettification of your website a breeze by adding invaluable features of more traditional programming languages.  In this workshop, we'll jump right in to the Sass workflow and cover all the key game changers - nesting, variables, mixins, inheritance, and directives.  We'll also cover some of the gotchyas, tools and extensions, and tips on organization and coding standards.\n",
+    "occupation": "Front-end Developer @ Make it",
+    "bio": "Janet is a frontend developer working remotely out of NYC for a company called Base. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum\n",
+    "social": {
+      "github": "janetjacks",
+      "twitter": "janetjacks",
+      "instagram": null,
+      "web": "http://www.janetjacks.com/"
+    }
+  },
+  {
+    "name": "Maria Smith",
+    "img": "https://trello-attachments.s3.amazonaws.com/547843ae7862e0c68f04d1c7/5d5e43fdce827e3e1c5b8871/4dcc3b996199e9c861859a89f0aea2e6/3.jpg",
+    "location": "Denver, CO",
+    "venue": "Funsize (407B E 6th St #204, Austin, TX 78701) - Large Room",
+    "type": "Discussion",
+    "title": "Why CSS is Horrible",
+    "tags": ["CSS", "Houdini"],
+    "start": 1447362900000,
+    "end": 1447366500000,
+    "invited": true,
+    "description": "The web is more than a technology platform — it was created with a mission statement, and a clear philosophy of inclusive diversity. One web, for everyone, from any device, with control in the hands of users. Design, code, and management trends also come with attached philosophies — and they’re not always so friendly. What do we believe about diversity, and how is it reflected in our code, our companies, clients, products, and processes?\n",
+    "occupation": "Front-end Developer",
+    "bio": "Maria Smith is an author, performer, musician, designer, and web developer. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum\n",
+    "social": {
+      "github": "miriSmith",
+      "twitter": "miriSmith",
+      "instagram": null,
+      "web": "http://www.MariaSmith.com/"
+    }
+  },
+  {
+    "name": "Chan Nicole",
+    "img": "https://trello-attachments.s3.amazonaws.com/547843ae7862e0c68f04d1c7/5d5e43fdce827e3e1c5b8871/380ff0d60bd7ed980f93fc061bc5833c/4.jpg",
+    "slug": "chan-nicole",
+    "location": "Austin",
+    "venue": "The North Door (501 Brushy St, Austin, TX 78702)",
+    "type": "Lightning Talk",
+    "title": "CSS Grid for the Win",
+    "tags": ["CSS", "Houdini"],
+    "start": 1447260420000,
+    "end": 1447261020000,
+    "invited": true,
+    "description": "The Houdini Task Force, which I introduced at last year's SassConf, is rolling along nicely. Several aspects of making CSS customizable now have draft specs, and are maturing nicely. There are even experimental builds in browsers! This talk will give a quick introduction to Houdini for those who are new, describe the parts that are reaching maturity, and hint at those that are still a bit far off.\n",
+    "occupation": "Spec Hacker",
+    "social": {
+      "github": "chan2",
+      "twitter": "chan2",
+      "instagram": null,
+      "web": "http://www.chanchan.com/"
+    }
+  },
+  {
+    "name": "Bobby Gills",
+    "img": "https://trello-attachments.s3.amazonaws.com/547843ae7862e0c68f04d1c7/5d5e43fdce827e3e1c5b8871/e4f8d703a8a7f4c40e7a430a86f3a7ba/5.jpg",
+    "location": "Ypsilanti, MI",
+    "venue": "Retail Me Not (301 Congress Ave #700, Austin, TX 78701) - Boardroom",
+    "type": "workshop",
+    "title": "JS Can Save your Life",
+    "tags": ["CSS", "Houdini"],
+    "start": 1447276500000,
+    "end": 1447287300000,
+    "invited": true,
+    "description": "I don't know about you, but vanilla CSS always leaves me wanting more.  It's a fairly simple language, can do some pretty powerful things, but after a while.. well, it can become rather tedious to work with.  Enter Sass: Syntactically Awesome Stylesheets.  Sass is a CSS meta-language and precompiler that makes the prettification of your website a breeze by adding invaluable features of more traditional programming languages.  In this workshop, we'll jump right in to the Sass workflow and cover all the key game changers - nesting, variables, mixins, inheritance, and directives.  We'll also cover some of the gotchyas, tools and extensions, and tips on organization and coding standards.\n",
+    "occupation": "Front-end Developer @ Make it",
+    "bio": "Bobby is a frontend developer working remotely out of NYC for a company called Base. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum\n",
+    "social": {
+      "github": "bobgills",
+      "twitter": "bobgills",
+      "instagram": null,
+      "web": "http://www.bobgills.com/"
+    }
+  },
+  {
+    "name": "Jenny Max",
+    "img": "https://trello-attachments.s3.amazonaws.com/547843ae7862e0c68f04d1c7/5d5e43fdce827e3e1c5b8871/5537e526a2825f5e6ce131c923e3a665/6.jpg",
+    "location": "Denver, CO",
+    "venue": "Funsize (407B E 6th St #204, Austin, TX 78701) - Large Room",
+    "type": "Discussion",
+    "title": "Why CSS is the Best",
+    "tags": ["CSS", "Houdini"],
+    "start": 1447362900000,
+    "end": 1447366500000,
+    "invited": true,
+    "description": "The web is more than a technology platform — it was created with a mission statement, and a clear philosophy of inclusive diversity. One web, for everyone, from any device, with control in the hands of users. Design, code, and management trends also come with attached philosophies — and they’re not always so friendly. What do we believe about diversity, and how is it reflected in our code, our companies, clients, products, and processes?\n",
+    "occupation": "Front-end Developer",
+    "bio": "Jenny Max is an author, performer, musician, designer, and web developer. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum\n",
+    "social": {
+      "github": "jennmax",
+      "twitter": "jennmax",
+      "instagram": null,
+      "web": "http://www.JennyMax.com/"
+    }
+  },
+  {
+    "name": "Sims Scotts",
+    "img": "https://trello-attachments.s3.amazonaws.com/547843ae7862e0c68f04d1c7/5d5e43fdce827e3e1c5b8871/c10091f7a973ef1d839e04c5132c9ed0/7.jpg",
+    "location": "Denver, CO",
+    "venue": "Funsize (407B E 6th St #204, Austin, TX 78701) - Large Room",
+    "type": "Discussion",
+    "title": "Why CSS is Horrible",
+    "tags": ["CSS", "Houdini"],
+    "start": 1447362900000,
+    "end": 1447366500000,
+    "invited": true,
+    "description": "The web is more than a technology platform — it was created with a mission statement, and a clear philosophy of inclusive diversity. One web, for everyone, from any device, with control in the hands of users. Design, code, and management trends also come with attached philosophies — and they’re not always so friendly. What do we believe about diversity, and how is it reflected in our code, our companies, clients, products, and processes?\n",
+    "occupation": "Front-end Developer",
+    "bio": "Sims Scotts is an author, performer, musician, designer, and web developer. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum\n",
+    "social": {
+      "github": "jennScotts",
+      "twitter": "jennScotts",
+      "instagram": null,
+      "web": "http://www.SimsScotts.com/"
+    }
+  },
+  {
+    "name": "Sims Scotts",
+    "img": "https://trello-attachments.s3.amazonaws.com/547843ae7862e0c68f04d1c7/5d5e43fdce827e3e1c5b8871/aac2041c7cfe13a81651994b4fd9a310/8.jpg",
+    "location": "Denver, CO",
+    "venue": "Funsize (407B E 6th St #204, Austin, TX 78701) - Large Room",
+    "type": "Discussion",
+    "title": "Why CSS is Horrible",
+    "tags": ["CSS", "Houdini"],
+    "start": 1447362900000,
+    "end": 1447366500000,
+    "invited": true,
+    "description": "The web is more than a technology platform — it was created with a mission statement, and a clear philosophy of inclusive diversity. One web, for everyone, from any device, with control in the hands of users. Design, code, and management trends also come with attached philosophies — and they’re not always so friendly. What do we believe about diversity, and how is it reflected in our code, our companies, clients, products, and processes?\n",
+    "occupation": "Front-end Developer",
+    "bio": "Sims Scotts is an author, performer, musician, designer, and web developer. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum\n",
+    "social": {
+      "github": "jennScotts",
+      "twitter": "jennScotts",
+      "instagram": null,
+      "web": "http://www.SimsScotts.com/"
+    }
+  },
+  {
+    "name": "Kenny Dans",
+    "img": "https://trello-attachments.s3.amazonaws.com/547843ae7862e0c68f04d1c7/5d5e43fdce827e3e1c5b8871/753f27ab71c76e486178f818c0ab4207/9.jpg",
+    "location": "Denver, CO",
+    "venue": "Funsize (407B E 6th St #204, Austin, TX 78701) - Large Room",
+    "type": "Discussion",
+    "title": "Why CSS is Horrible",
+    "tags": ["CSS", "Houdini"],
+    "start": 1447362900000,
+    "end": 1447366500000,
+    "invited": true,
+    "description": "The web is more than a technology platform — it was created with a mission statement, and a clear philosophy of inclusive diversity. One web, for everyone, from any device, with control in the hands of users. Design, code, and management trends also come with attached philosophies — and they’re not always so friendly. What do we believe about diversity, and how is it reflected in our code, our companies, clients, products, and processes?\n",
+    "occupation": "Front-end Developer",
+    "bio": "Kenny Dans is an author, performer, musician, designer, and web developer. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum\n",
+    "social": {
+      "github": "KennyDans",
+      "twitter": "KennyDans",
+      "instagram": null,
+      "web": "http://www.KennyDans.com/"
+    }
+  }
+]

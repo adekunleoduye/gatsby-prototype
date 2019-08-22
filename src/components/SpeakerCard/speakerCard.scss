@@ -1,0 +1,287 @@
+$green: #5c992b;
+$dark-green: #338113;
+$hover-green: #82b466;
+$gray: #ededed;
+
+//  ---------
+//  config.scss
+//  ---------
+
+body {
+  font-family: arial, sans-serif;
+}
+
+//  ---------
+//  Layout
+//  ---------
+
+.career-tile__group {
+  // max-width: 450px;
+  margin: 0 auto;
+}
+
+.career-tile__content-group {
+  display: flex;
+}
+
+//  ---------
+//  Modules
+//  ---------
+
+.career-tile {
+  position: relative;
+}
+
+/* ////////////   Info Group //////////// */
+
+.career-tile__info-group {
+  padding: 20px;
+  background-color: $dark-green;
+  color: white;
+  position: absolute;
+  width: inherit;
+  z-index: 10;
+}
+
+.info__main {
+  transition: 500ms opacity linear;
+  transition-delay: 500ms;
+  opacity: 0;
+
+  &.fadeIn {
+    opacity: 1;
+  }
+}
+
+.info__title {
+  font-weight: normal;
+  margin-top: 0;
+}
+
+.info__content {
+  line-height: 22px;
+}
+
+.info__header {
+  overflow: hidden;
+}
+
+.info__close {
+  display: inline-block;
+  float: right;
+  font-size: 25px;
+  cursor: pointer;
+}
+
+/* ////////////  Card Title //////////// */
+
+.career-tile__title-group {
+  padding: 1rem;
+}
+.career-tile__content-group {
+  border-top: 5px solid $green;
+  background: white;
+  cursor: pointer;
+  transition: 500ms all linear;
+
+  &:hover {
+    background-color: $hover-green;
+
+    .career-tile__title,
+    .career-tile__speaker {
+      color: white;
+    }
+
+    .career-tile__img {
+      webkit-filter: grayscale(100%);
+      filter: grayscale(100%);
+      transition: 500ms filter linear;
+    }
+  }
+}
+
+.career-tile__title {
+  // font-weight: normal;
+  // max-width: 100px;
+}
+
+.career-tile__speaker {
+  font-weight: normal;
+  // max-width: 100px;
+}
+
+.career-tile__title-group {
+  align-self: center;
+  margin: 0 auto;
+}
+
+/* ////////////  Card Image //////////// */
+
+.career-tile__img {
+  display: flex;
+  margin-bottom: 0;
+  width: 21rem;
+}
+
+//  ---
+//  Utility Classes
+//  ---
+
+.is-hidden {
+  display: none;
+}
+
+.grid {
+  display: grid;
+}
+
+.gap0 {
+  grid-gap: 0;
+}
+
+.gap1 {
+  grid-gap: 0.25rem;
+}
+
+.gap2 {
+  grid-gap: 0.5rem;
+}
+
+.gap3 {
+  grid-gap: 0.75rem;
+}
+
+.gap4 {
+  grid-gap: 1rem;
+}
+
+.gap5 {
+  grid-gap: 2rem;
+}
+
+.col1 {
+  grid-template-columns: repeat(1, 1fr);
+}
+
+.col2 {
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.col3 {
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.col4 {
+  grid-template-columns: repeat(4, 1fr);
+}
+
+.col5 {
+  grid-template-columns: repeat(5, 1fr);
+}
+
+.col6 {
+  grid-template-columns: repeat(6, 1fr);
+}
+
+.col7 {
+  grid-template-columns: repeat(7, 1fr);
+}
+
+.col8 {
+  grid-template-columns: repeat(8, 1fr);
+}
+
+.col9 {
+  grid-template-columns: repeat(9, 1fr);
+}
+
+.col10 {
+  grid-template-columns: repeat(10, 1fr);
+}
+
+.col11 {
+  grid-template-columns: repeat(11, 1fr);
+}
+
+.col12 {
+  grid-template-columns: repeat(12, 1fr);
+}
+
+.colspan1 {
+  grid-column: span 1;
+}
+
+.colspan2 {
+  grid-column: span 2;
+}
+
+.colspan3 {
+  grid-column: span 3;
+}
+
+.colspan4 {
+  grid-column: span 4;
+}
+
+.colspan5 {
+  grid-column: span 5;
+}
+
+.colspan6 {
+  grid-column: span 6;
+}
+
+.colspan7 {
+  grid-column: span 7;
+}
+
+.colspan8 {
+  grid-column: span 8;
+}
+
+.colspan9 {
+  grid-column: span 9;
+}
+
+.colspan10 {
+  grid-column: span 10;
+}
+
+.colspan11 {
+  grid-column: span 11;
+}
+
+.colspan12 {
+  grid-column: span 12;
+}
+
+.icon-small {
+  width: 1.25em;
+  height: 1.25em;
+}
+
+.icon-medium {
+  width: 1.5em;
+  height: 1.5em;
+}
+
+.icon-large {
+  width: 2em;
+  height: 2em;
+}
+
+.icon-blue {
+  fill: #0366d6;
+}
+
+.theme--dark .icon-blue {
+  fill: #50c0ff;
+}
+
+.icon-white {
+  fill: #f6f6f6;
+}
+
+.icon-black {
+  fill: #212121;
+}
